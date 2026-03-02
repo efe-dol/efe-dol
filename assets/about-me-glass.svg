@@ -1,4 +1,6 @@
 <svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>About Me card</title>
+  <desc>Glassy About Me card with a German intro about UI/UX, JavaScript and Design Systems.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0f172a" />
