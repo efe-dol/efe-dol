@@ -3,7 +3,7 @@
 ## About Me
 
 <p align="center">
-  <img src="assets/about-me-glass.svg" alt="Glassy About Me card" width="100%" />
+  <img src="assets/about-me-glass.svg" alt="About Me card: UI/UX, JavaScript and Design Systems" width="100%" />
 </p>
 
 <!--
