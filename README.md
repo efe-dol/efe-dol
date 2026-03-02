@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## About Me
+
+<p align="center">
+  <img src="assets/about-me-glass.svg" alt="Glassy About Me card" width="100%" />
+</p>
+
 <!--
 **efe-dol/efe-dol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
