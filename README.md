@@ -1,16 +1,35 @@
-## Servus 
+# 👋 Servus, ich bin Efe
 
-<!--
-**efe-dol/efe-dol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil!  
+Ich baue mit viel Neugier Projekte rund um Software, Lernen und neue Technologien.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+
+- 💻 Ich arbeite gerne an praktischen Software-Projekten
+- 🌱 Ich lerne kontinuierlich weiter und probiere neue Tools aus
+- 🤝 Ich freue mich über Austausch und Zusammenarbeit
+
+---
+
+## 🛠️ Tech-Interessen
+
+`Web Development` · `Automation` · `Open Source` · `Clean Code`
+
+---
+
+## 📌 Aktuell
+
+- 🔭 Ich arbeite aktuell an neuen Projekten und verbessere bestehende Ideen
+- 📚 Ich vertiefe mein Wissen in moderner Softwareentwicklung
+
+---
+
+## 📫 Kontakt
+
+Wenn du dich austauschen möchtest, schreib mir gern über GitHub.
+
+---
+
+⭐ Danke fürs Vorbeischauen!
