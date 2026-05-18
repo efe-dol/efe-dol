@@ -1,5 +1,11 @@
 ## Servus 
 
+## About Me
+
+<p align="center">
+  <img src="assets/about-me-glass.svg" alt="About Me card: UI/UX, JavaScript and Design Systems" width="100%" />
+</p>
+
 <!--
 **efe-dol/efe-dol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
